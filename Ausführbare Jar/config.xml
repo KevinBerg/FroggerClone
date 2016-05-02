@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <daten>
+    <backgroundmusic value="audio/bg.wav" />
+    <collisionsound value="audio/collision.wav" />
+    <levelchangesound value="audio/levelchange.wav" />
+    <banner value="img/banner.png" />
+    <resolution value="700" />
+  </daten>
+  <levels>
+    <level_1>
+      <map>
+        <line_0 value="hthhhhhhhhhhhhhhhhth" />
+        <line_1 value="pppppppppppppppppppp" />
+        <line_2 value="ssssssssssssssssssss" />
+        <line_3 value="ssssssssssssssssssss" />
+        <line_4 value="pppppppppppppppppppp" />
+        <line_5 value="yxyxyxfffyxyxfffyxyx" />
+        <line_6 value="cvcvcvfffcvcvfffcvcv" />
+        <line_7 value="ffffffffffffffffffff" />
+        <line_8 value="fffkfffyxffffffyxfff" />
+        <line_9 value="yxfffyxcvyxffyxcvfyx" />
+        <line_10 value="cvfffcvffcvffcvfffcv" />
+        <line_11 value="ffffffffffffffffffff" />
+        <line_12 value="yxyxyxfffyxyxfffyxyx" />
+        <line_13 value="cvcvcvfffcvcvfffcvcv" />
+        <line_14 value="rrrrrrbbbrrrrbbbrrrr" />
+        <line_15 value="rrrrrrbbbrrrrbbbrrrr" />
+        <line_16 value="pppppppppppppppppppp" />
+        <line_17 value="ssssssssssssssssssss" />
+        <line_18 value="ssssssssssssssssssss" />
+        <line_19 value="mmmmmmmmmmmmmmmmmmmm" />
+        <startposition>
+          <xPos value="10" />
+          <yPos value="20" />
+        </startposition>
+      </map>
+      <walkers>
+        <walker_1>
+          <xPos value="7" />
+          <yPos value="8" />
+          <speed value="6" />
+          <rightwards value="-1" />
+          <type value="w1" />
+        </walker_1>
+        <walker_2>
+          <xPos value="18" />
+          <yPos value="8" />
+          <speed value="6" />
+          <rightwards value="-1" />
+          <type value="w2" />
+        </walker_2>
+        <walker_3>
+          <xPos value="5" />
+          <yPos value="1" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_3>
+        <walker_4>
+          <xPos value="4" />
+          <yPos value="11" />
+          <speed value="6" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_4>
+        <walker_5>
+          <xPos value="10" />
+          <yPos value="8" />
+          <speed value="10" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_5>
+      </walkers>
+      <vehicles>
+        <vehicle_1>
+          <xPos value="9" />
+          <yPos value="2" />
+          <speed value="8" />
+          <rightwards value="-1" />
+          <type value="b1" />
+        </vehicle_1>
+        <vehicle_2>
+          <xPos value="10" />
+          <yPos value="2" />
+          <speed value="8" />
+          <rightwards value="-1" />
+          <type value="b2" />
+        </vehicle_2>
+        <vehicle_3>
+          <xPos value="11" />
+          <yPos value="2" />
+          <speed value="8" />
+          <rightwards value="-1" />
+          <type value="b2" />
+        </vehicle_3>
+        <vehicle_4>
+          <xPos value="12" />
+          <yPos value="2" />
+          <speed value="8" />
+          <rightwards value="-1" />
+          <type value="b3" />
+        </vehicle_4>
+        <vehicle_5>
+          <xPos value="10" />
+          <yPos value="18" />
+          <speed value="13" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_5>
+      </vehicles>
+    </level_1>
+    <level_2>
+      <map>
+        <line_0 value="ootooooootoooooootoo" />
+        <line_1 value="mmmmmmmmmmmmmmmmmmmm" />
+        <line_2 value="rrbrrrrrrbrrrrrrrbrr" />
+        <line_3 value="rrbrrrrrrbrrrrrrrbrr" />
+        <line_4 value="pppppppppppppppppppp" />
+        <line_5 value="pppppoopppppppoopppp" />
+        <line_6 value="pooppppppoppopppppoo" />
+        <line_7 value="pppppppppppppppppppp" />
+        <line_8 value="oooooppppppoooopppop" />
+        <line_9 value="hhhhhffhhffhhhhfffhf" />
+        <line_10 value="ffhffffffffffffhhfff" />
+        <line_11 value="ffffffhfffhfkffhhfff" />
+        <line_12 value="fkffffffkfffffffffff" />
+        <line_13 value="fffhhhhfffhhhffhhhhk" />
+        <line_14 value="ffffffffhfffffffffff" />
+        <line_15 value="hhffhhffhhffhhffhhff" />
+        <line_16 value="dddddddddddddddddddd" />
+        <line_17 value="ssssssssssssssssssss" />
+        <line_18 value="ssssssssssssssssssss" />
+        <line_19 value="mmmmmmmmmmmmmmmmmmmm" />
+        <startposition>
+          <xPos value="10" />
+          <yPos value="20" />
+        </startposition>
+      </map>
+      <walkers>
+        <walker_1>
+          <xPos value="10" />
+          <yPos value="10" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_1>
+        <walker_2>
+          <xPos value="6" />
+          <yPos value="12" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_2>
+        <walker_3>
+          <xPos value="12" />
+          <yPos value="12" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_3>
+        <walker_4>
+          <xPos value="12" />
+          <yPos value="5" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_4>
+        <walker_5>
+          <xPos value="3" />
+          <yPos value="5" />
+          <speed value="11" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_5>
+        <walker_6>
+          <xPos value="5" />
+          <yPos value="6" />
+          <speed value="8" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_6>
+        <walker_7>
+          <xPos value="13" />
+          <yPos value="6" />
+          <speed value="7" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_7>
+      </walkers>
+      <vehicles>
+        <vehicle_1>
+          <xPos value="12" />
+          <yPos value="18" />
+          <speed value="13" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_1>
+        <vehicle_2>
+          <xPos value="11" />
+          <yPos value="17" />
+          <speed value="12" />
+          <rightwards value="-1" />
+          <type value="b1" />
+        </vehicle_2>
+        <vehicle_3>
+          <xPos value="12" />
+          <yPos value="17" />
+          <speed value="12" />
+          <rightwards value="-1" />
+          <type value="b3" />
+        </vehicle_3>
+      </vehicles>
+    </level_2>
+    <level_3>
+      <map>
+        <line_0 value="ddtddtddddddddtddtdd" />
+        <line_1 value="ssssssssssssssssssss" />
+        <line_2 value="dodododododododododo" />
+        <line_3 value="uuuuuuuuuuuuuuuuuuuu" />
+        <line_4 value="odododododododododod" />
+        <line_5 value="dddodddddddddddodddd" />
+        <line_6 value="ddddddddooddddddddod" />
+        <line_7 value="rbrrrrbrrrbrrrrrrbrr" />
+        <line_8 value="dddoddddodddddddoddd" />
+        <line_9 value="ddddddddddddoddddddd" />
+        <line_10 value="yxbbyxyxbbyxyxbbyxbo" />
+        <line_11 value="cvbbcvcvbbcvcvbbcvbo" />
+        <line_12 value="ddbbdddodddddddddddd" />
+        <line_13 value="odbbddddooddodddoood" />
+        <line_14 value="yxbbyxdodddddddooddd" />
+        <line_15 value="cvbbcvddddooodddddod" />
+        <line_16 value="dobbdddddodddddddddd" />
+        <line_17 value="ssssssssssssssssssss" />
+        <line_18 value="ddbbdddddododdddddod" />
+        <line_19 value="ddbbdddddddddodddodd" />
+        <startposition>
+          <xPos value="7" />
+          <yPos value="20" />
+        </startposition>
+      </map>
+      <walkers>
+        <walker_1>
+          <xPos value="10" />
+          <yPos value="9" />
+          <speed value="10" />
+          <rightwards value="-1" />
+          <type value="w1" />
+        </walker_1>
+        <walker_2>
+          <xPos value="10" />
+          <yPos value="16" />
+          <speed value="10" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_2>
+        <walker_3>
+          <xPos value="5" />
+          <yPos value="16" />
+          <speed value="10" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_3>
+        <walker_4>
+          <xPos value="4" />
+          <yPos value="13" />
+          <speed value="10" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_4>
+        <walker_5>
+          <xPos value="13" />
+          <yPos value="12" />
+          <speed value="10" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_5>
+        <walker_6>
+          <xPos value="13" />
+          <yPos value="14" />
+          <speed value="7" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_6>
+        <walker_7>
+          <xPos value="18" />
+          <yPos value="12" />
+          <speed value="11" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_7>
+        <walker_8>
+          <xPos value="17" />
+          <yPos value="9" />
+          <speed value="12" />
+          <rightwards value="-1" />
+          <type value="w2" />
+        </walker_8>
+        <walker_9>
+          <xPos value="6" />
+          <yPos value="8" />
+          <speed value="10" />
+          <rightwards value="-1" />
+          <type value="w3" />
+        </walker_9>
+        <walker_10>
+          <xPos value="1" />
+          <yPos value="8" />
+          <speed value="10" />
+          <rightwards value="-1" />
+          <type value="w2" />
+        </walker_10>
+        <walker_11>
+          <xPos value="14" />
+          <yPos value="8" />
+          <speed value="10" />
+          <rightwards value="-1" />
+          <type value="w1" />
+        </walker_11>
+      </walkers>
+      <vehicles>
+        <vehicle_1>
+          <xPos value="10" />
+          <yPos value="17" />
+          <speed value="15" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_1>
+        <vehicle_2>
+          <xPos value="5" />
+          <yPos value="17" />
+          <speed value="15" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_2>
+        <vehicle_3>
+          <xPos value="0" />
+          <yPos value="17" />
+          <speed value="15" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_3>
+        <vehicle_4>
+          <xPos value="10" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="re1" />
+        </vehicle_4>
+        <vehicle_5>
+          <xPos value="11" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="re2" />
+        </vehicle_5>
+        <vehicle_6>
+          <xPos value="12" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="rw4" />
+        </vehicle_6>
+        <vehicle_7>
+          <xPos value="13" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="rw5" />
+        </vehicle_7>
+        <vehicle_8>
+          <xPos value="14" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="rw2" />
+        </vehicle_8>
+        <vehicle_9>
+          <xPos value="15" />
+          <yPos value="3" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="rw3" />
+        </vehicle_9>
+        <vehicle_10>
+          <xPos value="15" />
+          <yPos value="1" />
+          <speed value="12" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_10>
+      </vehicles>
+    </level_3>
+    <level_4>
+      <map>
+        <line_0 value="hhhtthhhhhhhhhhtthhh" />
+        <line_1 value="poopppoppppoppoppopp" />
+        <line_2 value="ssssssssssssssssssss" />
+        <line_3 value="ssssssssssssssssssss" />
+        <line_4 value="dddddddddddddddddddd" />
+        <line_5 value="ssssssssssssssssssss" />
+        <line_6 value="ssssssssssssssssssss" />
+        <line_7 value="pppppppppppppppppppp" />
+        <line_8 value="hhhhhffhhffhhhhfffhf" />
+        <line_9 value="hhhhhffhhffhhhhfffhf" />
+        <line_10 value="fhhffffffffffffhhfff" />
+        <line_11 value="fhhfffhfffffkffhhfff" />
+        <line_12 value="fhhfffffffffffffffff" />
+        <line_13 value="hhhfffhhhffhhhfffhhh" />
+        <line_14 value="rrrbbrrrrbbrrrbbbrrr" />
+        <line_15 value="rrrbbrrrrbbrrrbbbrrr" />
+        <line_16 value="pppppppppppppppppppp" />
+        <line_17 value="ssssssssssssssssssss" />
+        <line_18 value="ssssssssssssssssssss" />
+        <line_19 value="mmmmmmmmmmmmmmmmmmmm" />
+        <startposition>
+          <xPos value="13" />
+          <yPos value="20" />
+        </startposition>
+      </map>
+      <walkers>
+        <walker_1>
+          <xPos value="10" />
+          <yPos value="11" />
+          <speed value="13" />
+          <rightwards value="1" />
+          <type value="w1" />
+        </walker_1>
+        <walker_2>
+          <xPos value="8" />
+          <yPos value="10" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_2>
+        <walker_3>
+          <xPos value="8" />
+          <yPos value="12" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_3>
+        <walker_4>
+          <xPos value="8" />
+          <yPos value="7" />
+          <speed value="13" />
+          <rightwards value="1" />
+          <type value="w3" />
+        </walker_4>
+        <walker_5>
+          <xPos value="18" />
+          <yPos value="7" />
+          <speed value="13" />
+          <rightwards value="1" />
+          <type value="w2" />
+        </walker_5>
+      </walkers>
+      <vehicles>
+        <vehicle_1>
+          <xPos value="10" />
+          <yPos value="3" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_1>
+        <vehicle_2>
+          <xPos value="17" />
+          <yPos value="2" />
+          <speed value="15" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_2>
+        <vehicle_3>
+          <xPos value="5" />
+          <yPos value="3" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_3>
+        <vehicle_4>
+          <xPos value="5" />
+          <yPos value="5" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="b1" />
+        </vehicle_4>
+        <vehicle_5>
+          <xPos value="4" />
+          <yPos value="5" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="b2" />
+        </vehicle_5>
+        <vehicle_6>
+          <xPos value="3" />
+          <yPos value="5" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="b2" />
+        </vehicle_6>
+        <vehicle_7>
+          <xPos value="2" />
+          <yPos value="5" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="b3" />
+        </vehicle_7>
+        <vehicle_8>
+          <xPos value="2" />
+          <yPos value="6" />
+          <speed value="19" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_8>
+        <vehicle_9>
+          <xPos value="12" />
+          <yPos value="6" />
+          <speed value="19" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_9>
+        <vehicle_10>
+          <xPos value="12" />
+          <yPos value="18" />
+          <speed value="19" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_10>
+        <vehicle_11>
+          <xPos value="18" />
+          <yPos value="17" />
+          <speed value="19" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_11>
+      </vehicles>
+    </level_4>
+    <level_5>
+      <map>
+        <line_0 value="hhhhhthhhthhhhhhhhth" />
+        <line_1 value="poppppopppopppoppopp" />
+        <line_2 value="pppppppppppppppppppp" />
+        <line_3 value="ssssssssssssssssssss" />
+        <line_4 value="ssssssssssssssssssss" />
+        <line_5 value="ssssssssssssssssssss" />
+        <line_6 value="dddddddddddddddddddd" />
+        <line_7 value="uuuuuuuuuuuuuuuuuuuu" />
+        <line_8 value="dddddodddddoddddoddd" />
+        <line_9 value="uuuuuuuuuuuuuuuuuuuu" />
+        <line_10 value="ddoddddoddddodddoddd" />
+        <line_11 value="ssssssssssssssssssss" />
+        <line_12 value="ssssssssssssssssssss" />
+        <line_13 value="ssssssssssssssssssss" />
+        <line_14 value="ffffffffffffffffffff" />
+        <line_15 value="hhffhhffhhffhhffhhff" />
+        <line_16 value="dddddddddddddddddddd" />
+        <line_17 value="ssssssssssssssssssss" />
+        <line_18 value="ssssssssssssssssssss" />
+        <line_19 value="mmmmmmmmmmmmmmmmmmmm" />
+        <startposition>
+          <xPos value="10" />
+          <yPos value="20" />
+        </startposition>
+      </map>
+      <walkers>
+        <walker_1>
+          <xPos value="10" />
+          <yPos value="14" />
+          <speed value="13" />
+          <rightwards value="-1" />
+          <type value="w2" />
+        </walker_1>
+        <walker_2>
+          <xPos value="19" />
+          <yPos value="14" />
+          <speed value="13" />
+          <rightwards value="-1" />
+          <type value="w1" />
+        </walker_2>
+        <walker_3>
+          <xPos value="5" />
+          <yPos value="14" />
+          <speed value="13" />
+          <rightwards value="-1" />
+          <type value="w3" />
+        </walker_3>
+      </walkers>
+      <vehicles>
+        <vehicle_1>
+          <xPos value="10" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="re1" />
+        </vehicle_1>
+        <vehicle_2>
+          <xPos value="11" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="re2" />
+        </vehicle_2>
+        <vehicle_3>
+          <xPos value="12" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw1" />
+        </vehicle_3>
+        <vehicle_4>
+          <xPos value="13" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw2" />
+        </vehicle_4>
+        <vehicle_5>
+          <xPos value="14" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw3" />
+        </vehicle_5>
+        <vehicle_6>
+          <xPos value="15" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw4" />
+        </vehicle_6>
+        <vehicle_7>
+          <xPos value="16" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw5" />
+        </vehicle_7>
+        <vehicle_8>
+          <xPos value="17" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw4" />
+        </vehicle_8>
+        <vehicle_9>
+          <xPos value="18" />
+          <yPos value="7" />
+          <speed value="17" />
+          <rightwards value="-1" />
+          <type value="rw5" />
+        </vehicle_9>
+        <vehicle_10>
+          <xPos value="20" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="re1" />
+        </vehicle_10>
+        <vehicle_11>
+          <xPos value="19" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="re2" />
+        </vehicle_11>
+        <vehicle_12>
+          <xPos value="18" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw1" />
+        </vehicle_12>
+        <vehicle_13>
+          <xPos value="17" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw2" />
+        </vehicle_13>
+        <vehicle_14>
+          <xPos value="16" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw3" />
+        </vehicle_14>
+        <vehicle_15>
+          <xPos value="15" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw4" />
+        </vehicle_15>
+        <vehicle_16>
+          <xPos value="14" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw5" />
+        </vehicle_16>
+        <vehicle_17>
+          <xPos value="13" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw4" />
+        </vehicle_17>
+        <vehicle_18>
+          <xPos value="12" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw5" />
+        </vehicle_18>
+        <vehicle_19>
+          <xPos value="11" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw4" />
+        </vehicle_19>
+        <vehicle_20>
+          <xPos value="10" />
+          <yPos value="9" />
+          <speed value="17" />
+          <rightwards value="1" />
+          <type value="rw5" />
+        </vehicle_20>
+        <vehicle_21>
+          <xPos value="10" />
+          <yPos value="11" />
+          <speed value="24" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_21>
+        <vehicle_22>
+          <xPos value="5" />
+          <yPos value="12" />
+          <speed value="22" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_22>
+        <vehicle_23>
+          <xPos value="14" />
+          <yPos value="13" />
+          <speed value="20" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_23>
+        <vehicle_24>
+          <xPos value="7" />
+          <yPos value="12" />
+          <speed value="22" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_24>
+        <vehicle_25>
+          <xPos value="1" />
+          <yPos value="12" />
+          <speed value="22" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_25>
+        <vehicle_26>
+          <xPos value="4" />
+          <yPos value="11" />
+          <speed value="24" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_26>
+        <vehicle_27>
+          <xPos value="4" />
+          <yPos value="5" />
+          <speed value="24" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_27>
+        <vehicle_28>
+          <xPos value="14" />
+          <yPos value="5" />
+          <speed value="24" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_28>
+        <vehicle_29>
+          <xPos value="17" />
+          <yPos value="4" />
+          <speed value="22" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_29>
+        <vehicle_30>
+          <xPos value="7" />
+          <yPos value="4" />
+          <speed value="22" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_30>
+        <vehicle_31>
+          <xPos value="4" />
+          <yPos value="3" />
+          <speed value="20" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_31>
+        <vehicle_32>
+          <xPos value="9" />
+          <yPos value="3" />
+          <speed value="20" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_32>
+        <vehicle_33>
+          <xPos value="14" />
+          <yPos value="3" />
+          <speed value="20" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_33>
+        <vehicle_34>
+          <xPos value="14" />
+          <yPos value="17" />
+          <speed value="20" />
+          <rightwards value="-1" />
+          <type value="car" />
+        </vehicle_34>
+        <vehicle_35>
+          <xPos value="4" />
+          <yPos value="18" />
+          <speed value="20" />
+          <rightwards value="1" />
+          <type value="car" />
+        </vehicle_35>
+      </vehicles>
+    </level_5>
+  </levels>
+  <textures>
+    <healthimage value="img/health.png" />
+    <healthlessimage value="img/healthless.png" />
+    <backgrounds>
+      <m value="img/Meadow.png" />
+      <p value="img/Park.png" />
+      <s value="img/Street.png" />
+      <t value="img/Target.png" />
+      <f value="img/Footwalk.png" />
+      <h value="img/House.png" />
+      <r value="img/River.png" />
+      <b value="img/Bridge.png" />
+      <k value="img/Kiosk.png" />
+      <u value="img/Rail.png" />
+      <o value="img/Bush.png" />
+      <d value="img/Sand.png" />
+      <y value="img/BigHouse1.png" />
+      <x value="img/BigHouse2.png" />
+      <c value="img/BigHouse3.png" />
+      <v value="img/BigHouse4.png" />
+    </backgrounds>
+    <walkers>
+      <w1 value="img/w1.png" />
+      <w2 value="img/w2.png" />
+      <w3 value="img/w3.png" />
+    </walkers>
+    <vehicles>
+      <b1 value="img/b1.png" />
+      <b2 value="img/b2.png" />
+      <b3 value="img/b3.png" />
+      <car value="img/car.png" />
+      <re1 value="img/re1.png" />
+      <re2 value="img/re2.png" />
+      <rw1 value="img/rw1.png" />
+      <rw2 value="img/rw2.png" />
+      <rw3 value="img/rw3.png" />
+      <rw4 value="img/rw4.png" />
+      <rw5 value="img/rw5.png" />
+    </vehicles>
+    <player value="img/player.png" />
+  </textures>
+</xml>
